@@ -1,0 +1,14 @@
+{
+    "gzip": false,
+    "useRapier": false,
+    "license": {
+        "id": "",
+        "key": ""
+    },
+    "generator": "Needle Engine for Blender 0.51.1",
+    "meta": {
+        "title": "twisthouse2",
+        "description": "Built with Needle Engine for Blender",
+        "image": "include/poster.webp"
+    }
+}
